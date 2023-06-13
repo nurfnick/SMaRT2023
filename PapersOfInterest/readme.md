@@ -3,4 +3,5 @@ Add any papers you find that are interesting and might help us later.  You can i
 1. Nature Journal $R_0$ factor, which strain? https://www.nature.com/articles/s41598-022-22101-7
 
       -bulletlist
+2. https://www.nature.com/articles/s41598-021-04108-8
 3. Link to my bio
