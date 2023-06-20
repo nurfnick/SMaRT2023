@@ -8,3 +8,4 @@ Add any papers you find that are interesting and might help us later.  You can i
 4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7787076/
 5. Dataset describing share of variants https://data.cdc.gov/Laboratory-Surveillance/SARS-CoV-2-Variant-Proportions/jr58-6ysp
 6. Names of Variants for dataset above https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-classifications.html#anchor_1632237683347
+7. Names of Variants and info about specific variants https://www.yalemedicine.org/news/covid-19-variants-of-concern-omicron
