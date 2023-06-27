@@ -11,3 +11,4 @@ Add any papers you find that are interesting and might help us later.  You can i
 7. Names of Variants and info about specific variants https://www.yalemedicine.org/news/covid-19-variants-of-concern-omicron
 8. This article has info on mutations including some estimates on when we expect mutations to occur https://academic.oup.com/emph/article/10/1/142/6555377
 9. Vaccine Tracker for Oklahoma https://data.oklahoman.com/covid-19-vaccine-tracker/oklahoma/40/
+10. Variant ... https://covid.cdc.gov/covid-data-tracker/#variant-summary
