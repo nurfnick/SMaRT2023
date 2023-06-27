@@ -12,3 +12,4 @@ Add any papers you find that are interesting and might help us later.  You can i
 8. This article has info on mutations including some estimates on when we expect mutations to occur https://academic.oup.com/emph/article/10/1/142/6555377
 9. Vaccine Tracker for Oklahoma https://data.oklahoman.com/covid-19-vaccine-tracker/oklahoma/40/
 10. Variant ... https://covid.cdc.gov/covid-data-tracker/#variant-summary
+11. Github account from CDC using data to make predictions on the proportions of variants.  https://github.com/CDCgov/SARS-CoV-2_Genomic_Surveillance
